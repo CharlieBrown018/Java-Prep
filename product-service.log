@@ -1,0 +1,27 @@
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+FINER: ENTRY
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+INFO: Product added successfully: Test Product
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+FINER: RETURN
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+FINER: ENTRY
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+WARNING: Invalid input for product
+java.lang.IllegalArgumentException: Product name cannot be empty
+	at com.interview.combined.Q06_ErrorHandling$ProductService.validateProductInput(Q06_ErrorHandling.java:115)
+	at com.interview.combined.Q06_ErrorHandling$ProductService.addProduct(Q06_ErrorHandling.java:90)
+	at com.interview.combined.Q06_ErrorHandling.main(Q06_ErrorHandling.java:30)
+
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService addProduct
+FINER: RETURN
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService updateStock
+FINER: ENTRY
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService updateStock
+INFO: Stock updated for product 1: 5
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService updateStock
+FINER: RETURN
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService updateStock
+FINER: ENTRY
+Feb 12, 2025 10:26:23 AM com.interview.combined.Q06_ErrorHandling$ProductService updateStock
+FINER: RETURN
