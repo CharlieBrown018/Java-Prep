@@ -24,6 +24,9 @@ public class Q01_Variables {
         // Boolean type
         boolean myboolean = true;       // true or false
 
+        // String type
+        String myString = "HelloWorld!";
+
         // Print all variables
         System.out.println("byte: " + myByte);
         System.out.println("short: " + myShort);
@@ -33,5 +36,6 @@ public class Q01_Variables {
         System.out.println("double: " + myDouble);
         System.out.println("char: " + myChar);
         System.out.println("boolean: " + myboolean);
+        System.out.println("string: " + myString);
     }
 }

@@ -37,6 +37,7 @@ public class Q04_Arrays {
                 {7, 8, 9}
         };
 
+        // Nested loop array
         System.out.println("\n2D Array Elements:");
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {

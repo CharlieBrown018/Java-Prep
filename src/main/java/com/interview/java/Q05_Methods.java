@@ -34,9 +34,9 @@ public class Q05_Methods {
         // Calling methods
         sayHello();
 
+
         int sum = add(5, 3);
         System.out.println("Sum of 5 and 3: " + sum);
-
         int sum3 = add(5, 3, 2);
         System.out.println("Sum of 5, 3, and 2: " + sum3);
 
