@@ -11,14 +11,19 @@
 
 - Used in **software development**, **servers**, **cloud computing**, and **DevOps**.
 - Strong **command-line interface (CLI)** skills are valued in tech jobs.
+ 
+---
 
-✅ **Common Shells in Unix/Linux:**  
-| **Shell**  | **Description** |
-|------------|------------------------------|
-| **bash**   | Most popular, used in Linux |
-| **sh**     | Original Unix shell |
-| **zsh**    | Advanced shell with better features |
-| **fish**   | User-friendly shell |
+✅ **Common Shells in Unix/Linux:**
+
+Here is your table in Markdown format:
+
+| **Shell** | **Description**                     |
+|-----------|-------------------------------------|
+| **bash**  | Most popular, used in Linux         |
+| **sh**    | Original Unix shell                 |
+| **zsh**   | Advanced shell with better features |
+| **fish**  | User-friendly shell                 |
 
 ---
 
